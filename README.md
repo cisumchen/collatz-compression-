@@ -58,3 +58,7 @@ def trajectory(n0: int, max_steps: int = 1000) -> list[int]:
     return seq
 
 print(trajectory(41))
+## Related Preprint
+
+For the full mathematical exposition, see the preprint:  
+[Collatz Dynamics — Anchors and Prime Nodes (OSF Preprint)](https://osf.io/f7uar/)
